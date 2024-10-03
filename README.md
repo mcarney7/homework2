@@ -1,4 +1,4 @@
-# homework2
+# MAD homework2
 
 A new Flutter project.
 
